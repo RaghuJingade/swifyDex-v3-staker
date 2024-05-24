@@ -1,17 +1,15 @@
 {
-  "name": "@uniswap/v3-staker",
-  "description": "Canonical liquidity mining contract for Uniswap V3",
+  "name": "swifydex-v3-staker",
+  "description": "Canonical liquidity mining contract for SwifyDex V3",
   "license": "GPL-3.0-or-later",
-  "version": "1.0.2",
-  "homepage": "https://uniswap.org",
+  "version": "1.0.0",
   "keywords": [
-    "uniswap",
     "liquidity mining",
     "v3"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v3-staker"
+    "url": "https://github.com/RaghuJingade/swifyDex-v3-staker.git"
   },
   "files": [
     "contracts",
